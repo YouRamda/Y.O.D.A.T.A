@@ -1,0 +1,3 @@
+{
+    "yowach" : "https://nox5-02.vidsharcdn.com/hls/,pdoma5yyo2m4f4kmlevcd5bah5o7lxtammprke2qb7chfy6cdjnzqgrtwcxa,.urlset/master.m3u8"
+}
